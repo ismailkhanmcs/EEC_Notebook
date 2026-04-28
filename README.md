@@ -43,9 +43,9 @@ Run the cells in order from 1 to 12:
 
 ## Outputs
 
-- MCMC chains (eec_v5_fp_chain.npy, eec_v5_fp_lp.npy)
-- Results summary (eec_v5_fp_results.txt)
-- Corner plot (eec_v5_fp_corner.png)
+- MCMC chains (eec_v5_chain.npy, eec_v5_lp.npy)
+- Results summary (eec_v5_results.txt)
+- Corner plot (eec_v5_corner.png)
 - Console output with best-fit parameters and statistics
 
 ## Notes
