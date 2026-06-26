@@ -4,7 +4,7 @@ Copyright 2026 Ismail Khan. All rights reserved.
 
 ## Description
 
-This Jupyter notebook implements the EEC v9 scale-free model for cosmological analysis. The stiffness is kappa = lambda*rho_m with no characteristic density or exponential cutoff. It uses three free parameters (omega_m, H0, sigma_8) and incorporates data from Pantheon+ supernovae, BOSS DR12 BAO, DESI DR1 BAO, and Planck theta* prior (model-independent, uses BBN omega_b and EEC geometry).
+This Jupyter notebook implements the EEC v9 scale-free model for cosmological analysis. The stiffness is kappa = beta*rho_m with no characteristic density or exponential cutoff. It uses three free parameters (omega_m, H0, sigma_8) and incorporates data from Pantheon+ supernovae, BOSS DR12 BAO, DESI DR1 BAO, and Planck theta* prior (model-independent, uses BBN omega_b and EEC geometry).
 
 ## Requirements
 
